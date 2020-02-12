@@ -55,21 +55,14 @@
 
 //                         SELECCIONAR BACKGROUND           
 
-// var color = []
-
-// document.querySelector("input").addEventListener("keydown",function(teclado) {
-//     var tecla = String.fromCharCode(teclado.keyCode)
-//     color = color + tecla  
-//     console.log(color);
-// })
 
 // document.querySelector("body").addEventListener("click",function () {
-//     this.style.backgroundColor = color
+//     document.querySelector("body").style.backgroundColor = document.getElementById("color").value
+//     console.log(document.getElementById("color").value); 
 // })
 
-// document.querySelector("button").addEventListener("click",function() {
-//     color = []
-//     document.querySelector("body").style.backgroundColor = "white"
-// })
+//  document.querySelector("button").addEventListener("click",function() {
+//      document.querySelector("body").style.backgroundColor = "white"
+//  })
 
 
